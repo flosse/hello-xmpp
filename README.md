@@ -7,6 +7,8 @@ languages to demonstrate several XMPP-libraries.
 
 - javascript
     - node-xmpp (MIT)
+- c
+    - strophe (MIT & GPLv3)
 
 ## Contribute
 
