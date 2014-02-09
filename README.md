@@ -9,6 +9,8 @@ languages to demonstrate several XMPP-libraries.
     - node-xmpp (MIT)
 - c
     - strophe (MIT & GPLv3)
+- python
+    - sleekXMPP (MIT)
 
 ## Contribute
 
