@@ -3,6 +3,11 @@
 This repository is a collection of "Hello world!" examples written in different
 languages to demonstrate several XMPP-libraries.
 
+## Libraries
+
+- javascript
+    - node-xmpp (MIT)
+
 ## Contribute
 
 If you like to add a library:
